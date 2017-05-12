@@ -1,0 +1,16 @@
+{
+  "name": "practice_code",
+  "version": "1.0.0",
+  "description": "only practice for a bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangzekun",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.0",
+    "dotenv": "^4.0.0",
+    "restify": "^4.3.0"
+  }
+}
